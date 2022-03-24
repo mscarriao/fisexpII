@@ -219,7 +219,7 @@
         },
         "layer1": {
           "link": false,
-          "referenceElementId": "rect927",
+          "referenceElementId": "rect4477",
           "outlineElementId": "rect927",
           "transitionTimingFunction": "linear",
           "transitionRelativeZoom": 0,
@@ -284,8 +284,8 @@
           "deltaAngle": 0
         },
         "layer1": {
-          "deltaX": 0,
-          "deltaY": 0,
+          "deltaX": 194.60214233398438,
+          "deltaY": 104.20222473144531,
           "widthFactor": 1,
           "heightFactor": 1,
           "deltaAngle": 0
@@ -313,7 +313,7 @@
         },
         "layer1": {
           "link": false,
-          "referenceElementId": "rect16033",
+          "referenceElementId": "rect927",
           "outlineElementId": "rect16033",
           "transitionTimingFunction": "linear",
           "transitionRelativeZoom": 0,
@@ -378,8 +378,8 @@
           "deltaAngle": 0
         },
         "layer1": {
-          "deltaX": 0,
-          "deltaY": 0,
+          "deltaX": 193.47564697265625,
+          "deltaY": 0.5479278564453125,
           "widthFactor": 1,
           "heightFactor": 1,
           "deltaAngle": 0
@@ -407,7 +407,7 @@
         },
         "layer1": {
           "link": false,
-          "referenceElementId": "rect927-3",
+          "referenceElementId": "rect16033",
           "outlineElementId": "rect927-3",
           "transitionTimingFunction": "linear",
           "transitionRelativeZoom": 0,
@@ -472,8 +472,8 @@
           "deltaAngle": 0
         },
         "layer1": {
-          "deltaX": 0,
-          "deltaY": 0,
+          "deltaX": 179.16363525390625,
+          "deltaY": 6.7303466796875,
           "widthFactor": 1,
           "heightFactor": 1,
           "deltaAngle": 0
@@ -1441,7 +1441,7 @@
         },
         "layer1": {
           "link": false,
-          "referenceElementId": "rect30874",
+          "referenceElementId": "rect204565",
           "outlineElementId": "rect30874",
           "transitionTimingFunction": "linear",
           "transitionRelativeZoom": 0,
@@ -1506,9 +1506,9 @@
           "deltaAngle": 0
         },
         "layer1": {
-          "deltaX": 0,
-          "deltaY": 0,
-          "widthFactor": 1,
+          "deltaX": 187.113037109375,
+          "deltaY": 118.24462890625,
+          "widthFactor": 1.3333333333333333,
           "heightFactor": 1,
           "deltaAngle": 0
         }
@@ -1628,7 +1628,7 @@
     "rect66982"
   ],
   "selectedFrames": [
-    "frame8646"
+    "frame3572"
   ],
   "selectedLayers": [
     "layer2",
