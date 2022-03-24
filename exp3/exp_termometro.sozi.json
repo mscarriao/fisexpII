@@ -1441,7 +1441,7 @@
         },
         "layer1": {
           "link": false,
-          "referenceElementId": "rect204565",
+          "referenceElementId": "rect30874",
           "outlineElementId": "rect30874",
           "transitionTimingFunction": "linear",
           "transitionRelativeZoom": 0,
@@ -1506,9 +1506,9 @@
           "deltaAngle": 0
         },
         "layer1": {
-          "deltaX": 187.113037109375,
-          "deltaY": 118.24462890625,
-          "widthFactor": 1.3333333333333333,
+          "deltaX": 0,
+          "deltaY": 0,
+          "widthFactor": 1,
           "heightFactor": 1,
           "deltaAngle": 0
         }
@@ -1628,7 +1628,7 @@
     "rect66982"
   ],
   "selectedFrames": [
-    "frame3572"
+    "start1"
   ],
   "selectedLayers": [
     "layer2",
